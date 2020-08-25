@@ -14,7 +14,6 @@ const options = [
     {
         label: 'Hindi',
         value: 'hi'
-        //AIzaSyCHUCmpR7cT_yDFHC98CZJy2LTms-IwDlM
     }
 ];
 
